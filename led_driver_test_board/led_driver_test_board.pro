@@ -1,4 +1,4 @@
-update=Mon 04 Dec 2017 11:30:32 PM CST
+update=Tue 05 Dec 2017 10:38:40 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,5 +58,7 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/connex_led
-LibName31=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/connex_device
+LibName30=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_Resistor
+LibName31=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_mosfets
+LibName32=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_device
+LibName33=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_led
