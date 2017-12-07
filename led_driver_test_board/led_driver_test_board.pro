@@ -1,4 +1,4 @@
-update=Tue 05 Dec 2017 10:38:40 PM CST
+update=Wed 06 Dec 2017 09:05:26 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/
 LibName31=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_mosfets
 LibName32=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_device
 LibName33=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_led
+LibName34=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_IC_SILABS
