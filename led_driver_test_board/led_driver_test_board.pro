@@ -1,4 +1,4 @@
-update=Thu 07 Dec 2017 06:38:09 PM CST
+update=12/7/2017 10:12:03 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../connex_kicad_libs
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,9 +58,9 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_Resistor
-LibName31=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_mosfets
-LibName32=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_device
-LibName33=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_led
-LibName34=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_IC_SILABS
-LibName35=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_capacitors
+LibName30=sch_libs/connex_capacitors
+LibName31=sch_libs/connex_device
+LibName32=sch_libs/connex_IC_SILABS
+LibName33=sch_libs/connex_led
+LibName34=sch_libs/connex_mosfets
+LibName35=sch_libs/connex_Resistor
