@@ -1,4 +1,4 @@
-update=Wed 06 Dec 2017 09:05:26 PM CST
+update=Thu 07 Dec 2017 06:38:09 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/
 LibName32=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_device
 LibName33=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_led
 LibName34=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_IC_SILABS
+LibName35=/home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/sch_libs/connex_capacitors
