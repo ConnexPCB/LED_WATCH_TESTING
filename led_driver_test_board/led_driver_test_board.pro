@@ -1,4 +1,4 @@
-update=Fri 08 Dec 2017 09:08:41 PM CST
+update=Sat 09 Dec 2017 11:23:52 AM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,4 @@ LibName34=sch_libs/connex_mosfets
 LibName35=sch_libs/connex_Resistor
 LibName36=sch_libs/connex_connector
 LibName37=sch_libs/connex_test
+LibName38=sch_libs/connex-Inductor
