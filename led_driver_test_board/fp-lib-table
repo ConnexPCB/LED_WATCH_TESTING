@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name connex_diodes)(type KiCad)(uri /home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/pcb_libs/connex_diodes.pretty)(options "")(descr ""))
   (lib (name connex_led)(type KiCad)(uri /home/birdman/Documents/projects/ConnexPCB/connex_kicad_libs/pcb_libs/connex_led.pretty)(options "")(descr ""))
+  (lib (name connex_test)(type KiCad)(uri /home/birdman/Documents/projects/ConnexPCB/led_watch_testing/connex_kicad_libs/pcb_libs/connex_test.pretty)(options "")(descr ""))
+  (lib (name connex_crystal)(type KiCad)(uri /home/birdman/Documents/projects/ConnexPCB/led_watch_testing/connex_kicad_libs/pcb_libs/connex_crystal.pretty)(options "")(descr ""))
 )
