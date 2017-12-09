@@ -1,4 +1,4 @@
-update=Thu 07 Dec 2017 10:24:08 PM CST
+update=Fri 08 Dec 2017 09:08:41 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,5 @@ LibName32=sch_libs/connex_IC_SILABS
 LibName33=sch_libs/connex_led
 LibName34=sch_libs/connex_mosfets
 LibName35=sch_libs/connex_Resistor
+LibName36=sch_libs/connex_connector
+LibName37=sch_libs/connex_test
