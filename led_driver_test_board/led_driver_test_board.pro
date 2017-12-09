@@ -1,4 +1,4 @@
-update=Sat 09 Dec 2017 11:23:52 AM CST
+update=12/9/2017 1:34:55 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,10 +60,12 @@ LibName28=contrib
 LibName29=valves
 LibName30=sch_libs/connex_capacitors
 LibName31=sch_libs/connex_device
-LibName32=sch_libs/connex_IC_SILABS
-LibName33=sch_libs/connex_led
-LibName34=sch_libs/connex_mosfets
-LibName35=sch_libs/connex_Resistor
-LibName36=sch_libs/connex_connector
-LibName37=sch_libs/connex_test
-LibName38=sch_libs/connex-Inductor
+LibName32=sch_libs/connex_led
+LibName33=sch_libs/connex_mosfets
+LibName34=sch_libs/connex_connector
+LibName35=sch_libs/connex_test
+LibName36=sch_libs/connex_ic_silabs
+LibName37=sch_libs/connex_resistor
+LibName38=sch_libs/connex_ic_lineartech
+LibName39=sch_libs/connex-Inductor
+
