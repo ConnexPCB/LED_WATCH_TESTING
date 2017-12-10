@@ -30,13 +30,14 @@ LIBS:contrib
 LIBS:valves
 LIBS:connex_capacitors
 LIBS:connex_device
-LIBS:connex_IC_SILABS
 LIBS:connex_led
 LIBS:connex_mosfets
-LIBS:connex_Resistor
 LIBS:connex_connector
 LIBS:connex_test
+LIBS:connex_ic_lineartech
 LIBS:connex-Inductor
+LIBS:connex_IC_SILABS
+LIBS:connex_Resistor
 LIBS:led_driver_test_board-cache
 EELAYER 25 0
 EELAYER END
