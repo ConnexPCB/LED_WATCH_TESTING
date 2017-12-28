@@ -2417,8 +2417,6 @@ Connection ~ 1750 1650
 Wire Wire Line
 	1800 1500 1800 1750
 Connection ~ 1800 1750
-Wire Wire Line
-	1850 1500 1850 1850
 Connection ~ 1850 1850
 Wire Wire Line
 	1400 1850 1350 1850

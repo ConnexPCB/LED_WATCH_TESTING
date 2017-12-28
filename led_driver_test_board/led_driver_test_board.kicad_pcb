@@ -3,7 +3,7 @@
   (general
     (links 217)
     (no_connects 0)
-    (area 99.924999 47.124999 139.075001 100.075001)
+    (area 91.275212 44.237286 147.517477 108.667476)
     (thickness 1.6)
     (drawings 39)
     (tracks 970)
@@ -71,7 +71,7 @@
     (grid_origin 126.9 118.3)
     (visible_elements FFFFFF7F)
     (pcbplotparams
-      (layerselection 0x00030_80000001)
+      (layerselection 0x010f0_80000001)
       (usegerberextensions false)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -92,9 +92,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory led_watch_testing__outputs_12_09_2017/))
   )
 
   (net 0 "")
